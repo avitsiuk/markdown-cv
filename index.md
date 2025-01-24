@@ -1,15 +1,15 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Aliaksei Vitsiuk's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Aliaksei Vitsiuk
+Backend developer.
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="aliaksei.vitsiuk@gmail.com">aliaksei.vitsiuk@gmail.com</a>
+| <a href="https://github.com/avitsiuk">https://github.com/avitsiuk</a>
+| <a href="https://avitsiuk.github.io/markdown-cv/">https://avitsiuk.github.io/markdown-cv</a>
 </div>
-
 
 ## Currently
 
@@ -19,11 +19,9 @@ Standing on the shoulders of giants
 
 Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
 
-
 ### Research interests
 
 Cooling, power series, optics, alchemy, planetary motions, apples.
-
 
 ## Education
 
@@ -40,16 +38,12 @@ __Trinity College, Cambridge__
 
 - Fellow
 
-
-
 ## Awards
 
 `2012`
 President, *Royal Society*, London, UK
 
 Associate, *French Academy of Science*, Paris, France
-
-
 
 ## Publications
 
@@ -70,7 +64,6 @@ etc. etc. etc.
 `2012`
 Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
 
-
 ## Occupation
 
 `1600`
@@ -82,10 +75,6 @@ __Royal Mint__, London
 `1600`
 __Lucasian professor of Mathematics__, Cambridge University
 
-
-
 <!-- ### Footer
 
-Last updated: May 2013 -->
-
-
+Last updated: Jan 2025 -->
