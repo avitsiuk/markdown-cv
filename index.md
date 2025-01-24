@@ -2,15 +2,15 @@
 layout: cv
 title: Aliaksei Vitsiuk's CV
 ---
-![profile_image](profile.jpeg)
+## ![profile_image](profile.jpeg)
 
 # Aliaksei Vitsiuk
 
 Backend developer.
 
 <div id="webaddress">
-<a href="aliaksei.vitsiuk@gmail.com">aliaksei.vitsiuk@gmail.com</a>
-| <a href="https://github.com/avitsiuk">https://github.com/avitsiuk</a>
+<a href="aliaksei.vitsiuk@gmail.com">aliaksei.vitsiuk@gmail.com</a>  
+| <a href="https://github.com/avitsiuk">https://github.com/avitsiuk</a>  
 | <a href="https://avitsiuk.github.io/markdown-cv/">https://avitsiuk.github.io/markdown-cv</a>
 </div>
 
