@@ -125,6 +125,12 @@ h1 {
 	line-height: 1em;
 	position: relative;
 	left: 25%;
+	margin-bottom: 1em;
+}
+
+h1 img {
+	position: absolute;
+	left: -4.3em;
 }
 
 h1+p {
@@ -189,6 +195,3 @@ strong {
 	display: none;
 	visibility: hidden;
 }
-
-
-
