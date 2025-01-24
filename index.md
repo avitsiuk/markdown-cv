@@ -18,15 +18,15 @@ Born: 04-04-1993
 
 ### &#x200B;
 
-- Working in conjunction with one/multiple teams or as a solo developer
-- Knowledge of a product lifecycle from development to production
-- Clear documentation writing and maintenance
-- Existing solutions support and development
-- Development of libraries and frameworks used by other developers
-- High/Low-level code analysis and optimization
-- SQL/NoSQL databases
-- Security and authentication protocols implementation
-- Knowledge of common work metodologies like Scrum/Agile
+- Working in conjunction with one/multiple teams or as a solo developer.
+- Knowledge of the product lifecycle from development to production.
+- Writing and maintaining clear documentation.
+- Supporting and developing existing solutions.
+- Developing libraries and frameworks for use by other developers.
+- High- and low-level code analysis and optimization.
+- SQL/NoSQL databases.
+- Security and authentication protocols implementation.
+- Knowledge of common work methodologies like Scrum/Agile.
 
 ## Known Progr. Languages/ Frameworks
 
@@ -37,7 +37,7 @@ Born: 04-04-1993
 - Kotlin
 - C++
 - AssemblyScript
-- Node.JS
+- Node.js
 - JavaCard/GlobalPlatform
 - Moleculer framework
 
@@ -46,21 +46,26 @@ Born: 04-04-1993
 ### &#x200B;
 
 __SmartCardX__ (npm: smartcardx)
-- Node.js backend library for managing and interacting with Smart Cards via PC/SC devices, data transcoding, cryptographic operations.
+- Node.js backend library for managing and interacting with Smart Cards via PC/SC devices, including data transcoding and cryptographic operations.
 
 __T2Lib__ (npm: @affidaty/t2-lib)
-- Node.js library for frontend and backend interactions with the TRINCI blockchain, data transcoding and cryptographic operations
+- Node.js library for frontend and backend interactions with the TRINCI blockchain, including data transcoding and cryptographic operations.
 
 __Trinci SDK AS__(npm: @affidaty/trinci-sdk-as)
-- AssemblyScript framework for WebAssembly TRINCI Smart Contracts development.
+- AssemblyScript framework for developing WebAssembly TRINCI Smart Contracts.
 
 ## Languages
 
 ### &#x200B;
 
-__English__,<br>C1<br><br>
-__Italian__,<br>C2<br><br>
-__Russian__,<br>Native
+__English__
+-C1
+
+__Italian__
+-C2
+
+__Russian__
+-Native
 
 ## Interests & Hobbies
 
@@ -87,8 +92,8 @@ __Affidaty S.p.A__,<br>Software Engineer<br><br>
 `Until 2019`
 __On-site Tech Support__
 - General Hardware/Software assistance
-- Networking setup and troubleshooting
-- Data recovery
+- Networks setup and troubleshooting
+- Performed data recovery
 
 <!-- ### Footer
 
