@@ -14,7 +14,7 @@ Born: 04-04-1993
 <a href="https://avitsiuk.github.io/markdown-cv/">https://avitsiuk.github.io/markdown-cv</a>
 </div>
 
-## General tecnical & personal skills
+## General technical & personal skills
 
 ### &#x200B;
 
@@ -28,7 +28,7 @@ Born: 04-04-1993
 - Security and authentication protocols implementation.
 - Knowledge of common work methodologies like Scrum/Agile.
 
-## Known Progr. Languages/ Frameworks
+## Known Programming <br> Languages/Frameworks
 
 ### &#x200B;
 
@@ -41,7 +41,7 @@ Born: 04-04-1993
 - JavaCard/GlobalPlatform
 - Moleculer framework
 
-## Developed or maintained <br> opensource projects
+## Developed or maintained <br> open-source projects
 
 ### &#x200B;
 
