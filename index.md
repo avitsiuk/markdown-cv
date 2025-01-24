@@ -9,8 +9,8 @@ title: Aliaksei Vitsiuk's CV
 Backend developer.
 
 <div id="webaddress">
-<a href="aliaksei.vitsiuk@gmail.com">aliaksei.vitsiuk@gmail.com</a>  
-| <a href="https://github.com/avitsiuk">https://github.com/avitsiuk</a>  
+<a href="mailto:aliaksei.vitsiuk@gmail.com">aliaksei.vitsiuk@gmail.com</a><br>
+| <a href="https://github.com/avitsiuk">https://github.com/avitsiuk</a><br>
 | <a href="https://avitsiuk.github.io/markdown-cv/">https://avitsiuk.github.io/markdown-cv</a>
 </div>
 
