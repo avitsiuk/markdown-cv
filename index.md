@@ -26,9 +26,39 @@ Software engineer
 - High- and low-level code analysis and optimization.
 - SQL/NoSQL databases.
 - Security and authentication protocols implementation.
+- Knowledge of blockchain principles and algorithms.
 - Knowledge of common work methodologies like Scrum/Agile.
 - Knowledge of Git
 
+## Types of projects I worked on
+
+### REST Backend Services:
+Designed and implemented backend systems with the following components/functionality:
+- -- Microservices architecture
+- -- User authentication leveraging proprietary public-private key infrastructure and WebAuthn specifications
+- -- Redis
+- -- Kafka
+- -- sqlite3
+- -- CouchDb
+
+### Proprietary Smartcard Applets:
+Developed applets with functionality such as:
+- -- Digital signature generation for arbitrary data
+- -- Cryptographic keys generation of various types
+- -- Authentication via digital certificates
+- -- Key agreement protocols for secure communication
+
+### Android Applications:
+Built applications with features including:
+- -- Interaction with proprietary and EMV (banking) smart cards via NFC
+- -- Blockchain transaction creation, signing, and submission
+- -- Payments processing
+
+### Automated Bitcoin Node <br> Management System:
+Created a system for managing Bitcoin nodes with features like:
+- -- Wallet management
+- -- Generation of purpose-specific addresses
+- -- Notifications for external services upon specific blockchain events
 
 ## Known Programming <br> Languages/Frameworks
 
