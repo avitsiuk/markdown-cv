@@ -59,13 +59,13 @@ __Trinci SDK AS__(npm: @affidaty/trinci-sdk-as)
 ### &#x200B;
 
 __English__
--C1
+- C1
 
 __Italian__
--C2
+- C2
 
 __Russian__
--Native
+- Native
 
 ## Interests & Hobbies
 
