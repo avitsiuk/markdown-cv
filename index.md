@@ -11,7 +11,7 @@ Software engineer
 <div id="webaddress">
 <a href="mailto:aliaksei.vitsiuk@gmail.com">aliaksei.vitsiuk@gmail.com</a><br>
 <a href="https://github.com/avitsiuk">https://github.com/avitsiuk</a><br>
-<a href="https://avitsiuk.github.io/markdown-cv/">https://avitsiuk.github.io/markdown-cv</a>
+<a href="https://avitsiuk.github.io/cv/">https://avitsiuk.github.io/cv/</a>
 </div>
 
 ## General technical & personal skills
@@ -35,7 +35,7 @@ Software engineer
 ### REST Backend Services:
 Designed and implemented backend systems with the following components/functionality:
 - -- Microservices architecture
-- -- User authentication leveraging proprietary public-private key infrastructure and WebAuthn specifications
+- -- User authentication leveraging proprietary public-private key infrastructure (EC/RSA/DH) and WebAuthn specifications
 - -- Redis
 - -- Kafka
 - -- sqlite3
