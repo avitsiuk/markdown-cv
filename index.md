@@ -56,8 +56,8 @@ Built applications with features including:
 
 ### Automated Bitcoin Node <br> Management System:
 Created a system for managing Bitcoin nodes with features like:
-- -- Wallet management
-- -- Generation of purpose-specific addresses
+- -- Wallet and funds management
+- -- Generation of purpose-specific addresses via hierarchical derivation
 - -- Notifications for external services upon specific blockchain events
 
 ## Known Programming <br> Languages/Frameworks
@@ -73,18 +73,32 @@ Created a system for managing Bitcoin nodes with features like:
 - JavaCard/GlobalPlatform
 - Moleculer framework
 
-## Developed or maintained <br> open-source projects
+## Personally developed <br> open-source projects
 
 ### &#x200B;
 
 __SmartCardX__ (npm: smartcardx)
 - Node.js backend library for managing and interacting with Smart Cards via PC/SC devices, including data transcoding and cryptographic operations.
+- -- Compatible with both commonjs and ES modules
+- -- Works with any PC/SC compatible device
+- -- Works on Windows, Linux and Mac
+- -- Follows Iso7816 and GlobalPlatform specifications
+- -- Supports two types of secure sessions: symmetric keys and key agreement based on elliptic curve cryptography.
 
 __T2Lib__ (npm: @affidaty/t2-lib)
-- Node.js library for frontend and backend interactions with the TRINCI blockchain, including data transcoding and cryptographic operations.
+- Node.js library for frontend and backend interactions with the TRINCI blockchain
+- -- Compatible with both commonjs and ES modules
+- -- Transactions creation/encoding.
+- -- Cryptographic signature
+- -- Custom tcp client
 
 __Trinci SDK AS__(npm: @affidaty/trinci-sdk-as)
 - AssemblyScript framework for developing WebAssembly TRINCI Smart Contracts.
+- -- Compatible with both commonjs and ES modules
+- -- compiled code compatible with third-party WASM environment
+- -- custom data structures for search operations optimization
+- -- custom decorators for compile-time automatic code modifications
+- -- custom methods exports with custom data exchange logic for communication with external environment
 
 ## Languages
 
